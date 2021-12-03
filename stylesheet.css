@@ -2,15 +2,7 @@
      body {
         font-family: 'Architects Daughter', serif;
       }
-@media (prefers-color-scheme: dark) {
-  img {
-    opacity: .75;
-    transition: opacity .5s ease-in-out;
-  }
-  img:hover {
-    opacity: 1;
-  }
-}
+
 body {
 
      background-color: #000e2e;
