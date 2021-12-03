@@ -1,6 +1,6 @@
 # neighbor-worldcloud
 
-My wordcloud of what a neighbor (for school). [View the final product](//mrhappyma.github.io/neighbor-worldcloud/).
+My wordcloud of what a neighbor (for school). [View the final product](//mrhappyma.github.io/neighbor-worldcloud/). *might be a bit overkill*
 
 Actual wordcloud made with [WordArt.com](//wordart.com).
 
